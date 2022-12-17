@@ -1,10 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:gap/gap.dart';
-
-import '../utils/app_layout.dart';
 import '../utils/styles.dart';
 
 class AppColumnLayout extends StatelessWidget {
